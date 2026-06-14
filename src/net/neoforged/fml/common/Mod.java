@@ -1,4 +1,4 @@
-package net.neoforged.common;
+package net.neoforged.fml.common;
 
 public @interface Mod {
     String value();
