@@ -1,3 +1,5 @@
 package net.neoforged.fml.event.lifecycle;
 
-public final class FMLCommonSetupEvent {}
+import net.neoforged.bus.api.Event;
+
+public final class FMLCommonSetupEvent extends Event {}
