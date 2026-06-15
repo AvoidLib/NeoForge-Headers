@@ -6,10 +6,10 @@ public final class FMLLoader {
     public static FMLLoader getCurrent() {
         throw new UnsupportedOperationException();
     }
-    public static Path getGameDir() {
+    public Path getGameDir() {
         throw new UnsupportedOperationException();
     }
-    public static LoadingModList getLoadingModList() {
+    public LoadingModList getLoadingModList() {
         throw new UnsupportedOperationException();
     }
 }
